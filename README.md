@@ -1,41 +1,40 @@
-# Git Branching & Merging
+# Git Branching & Merging:
 
 # Tom's Merge
 ## 1. Navigate to GitHub Repo
 
 ![](img/aSwitchbranch.png)
 
-
 ## 2. Switch to the Branch
 
-- Switch to `update-navigation` branch Tom's branch.
+- **Switch to `update-navigation` branch Tom's branch:**
 
 ![](img/aSwitchbranch.png)
 
 ## 3. Create Pull Request
 
-- Initiate new `Pull Request`:
+- **Initiate new `Pull Request`:**
 
 ![](img/branchswitch.png)
 
-- Open the Pull request
+- **Open the Pull request:**
 
 ![](img/copenTPR.png)
 
-- Add description
+- **Add description:**
 
 ![](img/d.Adddesc.png)
 
 ## 4. Review & Merge Pull Request
-- Review Tom's Pull Request.
+- **Review Tom's Pull Request.**
 
 ![](img/e.ReviewChanges.png)
 
-- Make sure there are no conflicts, resolve if there is conflict.
+- **Make sure there are no conflicts, resolve if there is conflict:**
 
 ![](img/f.CreatedPR.png)
 
-- Initiate Merge Confirmation.
+- **Initiate Merge Confirmation:**
 
 ![](img/g.Initiate&ConfirmMerg.png)
 
@@ -91,3 +90,5 @@
 ## 12. Success!
 
 ![](img/s.Success.png)
+
+---
